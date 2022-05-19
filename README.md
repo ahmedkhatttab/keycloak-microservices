@@ -1,2 +1,2 @@
-# keycloak-microservices
-Integrate Keycloak with Microservices Example
+# keycloak-springboot-microservices example
+Multi module application to integrate Keycloak with Microservices
